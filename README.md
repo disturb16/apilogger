@@ -2,7 +2,7 @@
 Simple api logger for golang with the purpose of log basic information like api-key, clinet ip, request-id.
 
 # Installation
-Run `go get github.com/san-services/apilogger`
+Run `go get github.com/sanservices/apilogger`
 
 # Usage
 
